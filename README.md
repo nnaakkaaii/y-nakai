@@ -1,2 +1,2 @@
 # y-nakai
-https://www.y-nakai.comで扱うコード一覧
+[https://y-nakai.com](https://y-nakai.com)で扱うコード一覧
